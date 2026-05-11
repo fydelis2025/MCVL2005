@@ -1,0 +1,8 @@
+Line 2: Could not create reference: '{90F3D7B3-92E7-44BA-B444-6A8E2A3BC375}#1.0#0'.
+Line 178: Class ACTIVESKINLibCtl.Skin of control Skin1 was not a loaded control class.
+Line 11: Property Icon in FrmLogin had an invalid file reference.
+Line 67: Property Picture in Image2 had an invalid file reference.
+Line 74: Property Picture in Image1 had an invalid file reference.
+Line 106: Property MouseIcon in Command1 had an invalid file reference.
+Line 125: Property MouseIcon in Command2 had an invalid file reference.
+Line 180: The property name OleObjectBlob in Skin1 is invalid.
