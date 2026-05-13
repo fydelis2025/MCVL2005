@@ -1,66 +1,39 @@
-# 📼 MCVL2005 - Sistema de Vídeo Locadora
+# 🏛️ MCVL2005 (Legacy Project)
 
-![Visual Basic](https://img.shields.io/badge/Visual%20Basic-VB6-blue?style=for-the-badge&logo=visualstudio)
-![Windows](https://img.shields.io/badge/Platform-Windows-success?style=for-the-badge)
-![Legacy Project](https://img.shields.io/badge/Project-Legacy-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Arquivado-red?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Visual%20Basic-blue?style=for-the-badge" alt="Language">
+  <img src="https://img.shields.io/badge/Year-2005-orange?style=for-the-badge" alt="Year">
+  <img src="https://img.shields.io/github/repo-size/fydelis2025/MCVL2005?style=for-the-badge" alt="Repo Size">
+</p>
 
----
+## 👤 Autoria e Preservação Histórica
+Este projeto faz parte do acervo histórico de desenvolvimento de **Adiel Santos Fontes**.
 
-# 📌 Sobre o Projeto
+*   **Autor:** Adiel Santos Fontes
+*   **Data Original:** 2005
+*   **Tecnologia:** Visual Basic (VB6 / VB.NET Legacy)
 
-O **MCVL2005** é um sistema antigo de gerenciamento para vídeo locadora desenvolvido em **Visual Basic** no ano de **2005**.
+O **MCVL2005** é um software desenvolvido em 2005, representando uma das bases da fundação técnica da FydelisTech. Ele reflete as práticas de desenvolvimento da época, focado em aplicações desktop para o ecossistema Windows, priorizando a entrega de interfaces funcionais e manipulação de dados local.
 
-O projeto foi criado com o objetivo de automatizar o controle de:
+## 🚀 Contexto do Projeto
+- **Desenvolvimento Desktop:** Criado em uma era onde as aplicações locais dominavam o mercado corporativo.
+- **Lógica de Negócio:** Implementação de fluxos de dados e controles que serviram de base para os sistemas mais modernos desenvolvidos posteriormente (como as linhas Realsoft e Bioghet).
+- **Legado:** Mantido no GitHub como prova de conceito e histórico de evolução de carreira, demonstrando domínio em linguagens clássicas.
 
-- 📀 Filmes
-- 👥 Clientes
-- 🧾 Locações
-- 💰 Pagamentos
-- 📅 Datas de devolução
-- 📦 Controle de estoque
+## 🛠️ Stack Técnica
+- **Linguagem:** Visual Basic
+- **IDE Original:** Visual Studio 2005 / VB6 Enterprise
+- **Plataforma:** Windows Desktop (Legacy)
 
-Representando uma solução simples e funcional para locadoras da época.
+## 📂 Estrutura de Arquivos
+*   Arquivos de formulário (`.frm` / `.vb`)
+*   Módulos de classe e lógica de sistema.
+*   Recursos de interface da era clássica do Windows.
 
----
-
-# 🕰️ Contexto Histórico
-
-Durante os anos 2000, vídeo locadoras eram muito populares, e sistemas desktop desenvolvidos em **VB6 (Visual Basic 6)** eram amplamente utilizados em pequenos comércios.
-
-O MCVL2005 faz parte desse período, sendo um projeto legado voltado para aprendizado, nostalgia e preservação de software antigo.
-
----
-
-# ⚙️ Funcionalidades
-
-- Cadastro de clientes
-- Cadastro de filmes
-- Controle de locações
-- Controle de devoluções
-- Pesquisa rápida
-- Relatórios simples
-- Interface clássica Windows
-- Banco de dados local
+## ⚙️ Notas de Execução
+Por se tratar de um projeto de **2005**, a execução requer ambientes legados ou a instalação de runtimes específicos do Visual Basic no Windows. É um código mantido primordialmente para fins de documentação, estudo de arquitetura legada e portfólio histórico.
 
 ---
-
-# 🖥️ Tecnologias Utilizadas
-
-- Visual Basic 6
-- Banco de Dados Access
-- Windows XP/2000
-- Componentes clássicos VB
-
----
-
-# 📂 Estrutura do Projeto
-
-```bash
-MCVL2005/
-├── forms/
-├── modules/
-├── database/
-├── reports/
-├── assets/
-└── README.md
+<p align="center">
+  <strong>Histórico de Desenvolvimento por Adiel Santos Fontes (Fydelis) | Desde 2005</strong>
+</p>
